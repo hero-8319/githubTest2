@@ -5,5 +5,6 @@ public class Main {
         System.out.println("안녕하세요 마스터 브랜치입니다.");
         String a = "banana";
         String b = "kiwi";
+        String c = "pineapple";
     }
 }
