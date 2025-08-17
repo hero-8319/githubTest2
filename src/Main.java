@@ -3,6 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("안녕하세요 디벨롭 브랜치입니다.");
-        String a = "apple"
+        String a = "apple";
     }
 }
