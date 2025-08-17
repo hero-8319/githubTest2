@@ -7,6 +7,6 @@ public class Main {
         String b = "kiwi";
         String c = "pineapple";
         String e = "mango";
-        String f = "watermelon";
+        String f = "melon";
     }
 }
