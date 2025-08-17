@@ -6,5 +6,6 @@ public class Main {
         String a = "banana";
         String b = "kiwi";
         String c = "pineapple";
+        String e = "mango";
     }
 }
